@@ -21,7 +21,7 @@ The course covers a wide range of topics, including:
 
 ## Environment Setup
 
-To ensure compatibility with the solutions provided, it is recommended to use the specified Python environment. You can set up the environment using the `cv1_environment.yaml` file included in this repository.
+To avoid errors and ensure that your code runs correctly for the TAs, it is **mandatory** to use the specified Python environment. You can set up the environment using the `cv1_environment.yaml` file included in this repository.
 
 To create the environment, run:
 
