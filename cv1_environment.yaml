@@ -1,4 +1,4 @@
-name: cv1_new
+name: cv1
 channels:
   - conda-forge
   - defaults
